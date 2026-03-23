@@ -12,13 +12,13 @@ SabrTrack is a modern self-discipline and habit tracking mobile app designed to 
 ![Home Screen](screenshots/20260323_133323.jpg)
 
 ### 🎬 Video Screen
-![Video Screen](screenshots/video.png)
+![Video Screen](screenshots/20260323_134117.jpg)
 
-### 🚨 Urge Control
-![Urge Screen](screenshots/urge.png)
+### 🚨 Profile Dashboard
+![Urge Screen](screenshots/20260323_133426.jpg)
 
 ### 📊 Stats Dashboard
-![Stats Screen](screenshots/stats.png)
+![Stats Screen](screenshots/20260323_133402.jpg)
 
 ---
 
